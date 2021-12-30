@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "child": "^0.0.3",
+    "jimp": "^0.16.1",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkCL001/Desafio_Black_and_White.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkCL001/Desafio_Black_and_White/issues"
+  },
+  "homepage": "https://github.com/LinkCL001/Desafio_Black_and_White#readme"
+}
